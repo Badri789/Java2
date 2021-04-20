@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="badri-kavteladze-quiz3-covid-soap:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>badri-kavteladze-quiz3-covid-soap</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="badri-kavteladze-quiz3-covid-soap-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="badri-kavteladze-quiz3-covid-soap:war exploded" />
+    </root>
+  </artifact>
+</component>
